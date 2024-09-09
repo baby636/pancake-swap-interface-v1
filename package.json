@@ -76,7 +76,7 @@
     "prettier": "^2.1.2",
     "qs": "^6.9.4",
     "serve": "^11.3.0",
-    "start-server-and-test": "^1.11.0"
+    "start-server-and-test": "^2.0.7"
   },
   "resolutions": {
     "@walletconnect/web3-provider": "1.1.1-alpha.0"
