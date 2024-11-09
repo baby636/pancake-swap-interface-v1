@@ -55,7 +55,7 @@
     "react-popper": "^2.2.3",
     "react-redux": "^7.2.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "^4.0.1",
+    "react-scripts": "^5.0.0",
     "react-spring": "^8.0.27",
     "react-virtualized-auto-sizer": "^1.0.2",
     "react-window": "^1.8.5",
@@ -75,7 +75,7 @@
     "husky": "4.3.5",
     "prettier": "^2.1.2",
     "qs": "^6.9.4",
-    "serve": "^11.3.0",
+    "serve": "^13.0.1",
     "start-server-and-test": "^1.11.0"
   },
   "resolutions": {
